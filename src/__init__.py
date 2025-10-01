@@ -3,7 +3,6 @@ def parse_search_query():
 
     pass
 
-
 def calculate_relevance_score():
 
     pass
